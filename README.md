@@ -1,5 +1,5 @@
 In case I'm not the only one who's irritated with youtube's usability lately,
-this is a simple script I've thrown together to deal with links to youtube.
+this is a simple script I've thrown together to deal with links to music on youtube.
 
 All the heavy lifting is done by the prerequisites:
 
